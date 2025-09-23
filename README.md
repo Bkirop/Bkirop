@@ -1,7 +1,7 @@
-# Hello, I'm Brian Kirop 👋
+# Hello, I am Brian Kirop 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Professional;Data+Scientist;Machine+Learning+Engineer;Business+Intelligence+Developer&center=true&size=30&color=0891b2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Business+Intelligence+Analyst&center=true&size=30&color=0891b2">
 </div>
 
 <p align="center">
@@ -19,43 +19,34 @@
 
 ## 🚀 About Me
 
-I'm a **purpose-driven Data Analyst** with deep analytical and quantitative expertise, holding a BSc. in Mathematics (Statistics Option) from Kibabii University. I leverage the full potential of data to derive business insights, solve complex business problems, and improve business decisions with a focus on creating positive impact.
+I am a **purpose-driven Data Analyst** with deep analytical and quantitative expertise, holding a BSc. in Mathematics (Statistics Option) from Kibabii University. I leverage the full potential of data to derive business insights, solve complex business problems, and improve business decisions with a focus on creating positive impact.
 
 - 🔭 I'm currently working on **Advanced Machine Learning Models & Business Intelligence Solutions**
-- 🌱 I'm learning **Big Data Technologies & Advanced Analytics**
+- 🌱 I'm learning **Web Development**
 - 👯 I'm looking to collaborate on **Data Science Projects & Open Source Analytics Tools**
 - 💬 Ask me about **Data Analytics, Machine Learning, Statistical Modeling, Business Intelligence**
 - 📫 How to reach me: **briankirop@gmail.com**
-- ⚡ Fun fact: **I helped identify market opportunities that led to 20% increase in client sales and improved team productivity by 30%**
+- 
+## 🛠️ Tech Stack
 
----
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 💼 Professional Experience
+### 🛠️ Backend
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### 🏢 **Collection Africa Limited** - Data Analyst
-**Feb 2020 - Mar 2021 | Nairobi, Kenya**
-- Created and implemented data models achieving **25% higher returns** compared to previous years
-- Developed data-driven algorithms to assess credit risk for different portfolios
-- Spearheaded performance improvement plans for 50 account managers, resulting in **30% revenue increase**
-- Automated data collection processes and identified valuable data sources
+### 🗃️ Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🏢 **KPMG** - Data Analytics Consulting Intern
-**Aug 2020 - Sep 2020 | Remote, Kenya**
-- Conducted comprehensive data quality assessments for analysis preparation
-- Identified high-value customers through demographic analysis and customer segmentation
-- Created impactful data visualizations for client presentations
-- Identified best market opportunities leading to **20% increase in client sales**
-
-### 🏢 **Kenya National Bureau of Statistics** - Attachee
-**May 2018 - Jul 2018 | Iten, Kenya**
-- Collected and analyzed data for Kenya Demographic Health Survey
-- Managed data entry using CS Pro Software and Excel
-- Performed statistical analysis using SPSS, STATA, and Excel
-- Calculated population projections for Elgeyo Marakwet County
-
----
-
-## 🛠️ Tech Stack & Skills
+### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Programming & Analytics
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -67,7 +58,6 @@ I'm a **purpose-driven Data Analyst** with deep analytical and quantitative expe
 ### Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### Machine Learning & Data Science
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -75,12 +65,6 @@ I'm a **purpose-driven Data Analyst** with deep analytical and quantitative expe
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
