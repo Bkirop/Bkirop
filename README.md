@@ -88,18 +88,22 @@ I am a **purpose-driven Data Analyst** with deep analytical and quantitative exp
 
 ### 📊 [Library Management System](https://github.com/Bkirop/Library-Management-System)
 **Tech Stack:** MYSQL 
+
  A comprehensive relational database management system designed for managing library operations, built with MySQL. This system handles books, members, staff, loans, reservations, and fines with complete referential integrity and business logic enforcement.
 
 ### 📈 [Iris Dataset Data Analysis](https://github.com/Bkirop/Iris-Dataset-Data-Analysis/tree/master)
 **Tech Stack:** Python
+
 📊 Exploratory Data Analysis (EDA) and Visualization of the classic Iris dataset
 
 ### 🎯 [Ubuntu Python Data Analysis](https://github.com/Bkirop/Ubuntu-Python-Data-Analysis)
-**Tech Stack:** Python  
+**Tech Stack:** Python 
+
 Loading, exploring, cleaning, and visualizing hospital data using Python — all while embracing the Ubuntu philosophy: “I am because we are.” Every patient, every record, every number matters because they are part of a community..
 
 ### 🔍 [Tukule Kwanza Data Analysis](https://github.com/Bkirop/Kwanza-Tukule-Data-Analysis)
 **Tech Stack:** Python 
+
 A comprehensive data science project featuring exploratory data analysis (EDA) and predictive modeling on the Tukule Kwanza dataset.
 
 ---
