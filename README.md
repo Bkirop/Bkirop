@@ -102,21 +102,21 @@ I'm a **purpose-driven Data Analyst** with deep analytical and quantitative expe
 
 ## 🏆 Featured Projects
 
-### 📊 [Credit Risk Assessment Model](https://github.com/bkirop/credit-risk-model)
-**Tech Stack:** Python, Scikit-learn, Pandas, Jupyter  
-A comprehensive machine learning model for assessing credit risk across different portfolios. Implements advanced algorithms for risk prediction and portfolio optimization.
+### 📊 [Library Management System](https://github.com/Bkirop/Library-Management-System)
+**Tech Stack:** MYSQL 
+ A comprehensive relational database management system designed for managing library operations, built with MySQL. This system handles books, members, staff, loans, reservations, and fines with complete referential integrity and business logic enforcement.
 
-### 📈 [Customer Segmentation Analysis](https://github.com/bkirop/customer-segmentation)
-**Tech Stack:** R, ggplot2, dplyr, cluster analysis  
-Advanced customer segmentation project using demographic and behavioral data to identify high-value customer segments and improve targeting strategies.
+### 📈 [Iris Dataset Data Analysis](https://github.com/Bkirop/Iris-Dataset-Data-Analysis/tree/master)
+**Tech Stack:** Python
+📊 Exploratory Data Analysis (EDA) and Visualization of the classic Iris dataset
 
-### 🎯 [Sales Performance Dashboard](https://github.com/bkirop/sales-dashboard)
-**Tech Stack:** Power BI, SQL, Python  
-Interactive business intelligence dashboard for monitoring sales performance, identifying trends, and providing actionable insights for decision-making.
+### 🎯 [Ubuntu Python Data Analysis](https://github.com/Bkirop/Ubuntu-Python-Data-Analysis)
+**Tech Stack:** Python  
+Loading, exploring, cleaning, and visualizing hospital data using Python — all while embracing the Ubuntu philosophy: “I am because we are.” Every patient, every record, every number matters because they are part of a community..
 
-### 🔍 [Population Projection Model](https://github.com/bkirop/population-projection)
-**Tech Stack:** STATA, Excel, Statistical Modeling  
-Statistical model for calculating population projections with demographic analysis and forecasting capabilities for regional planning.
+### 🔍 [Tukule Kwanza Data Analysis](https://github.com/Bkirop/Kwanza-Tukule-Data-Analysis)
+**Tech Stack:** Python 
+A comprehensive data science project featuring exploratory data analysis (EDA) and predictive modeling on the Tukule Kwanza dataset.
 
 ---
 
@@ -138,15 +138,6 @@ Statistical model for calculating population projections with demographic analys
 
 ---
 
-## 📈 Key Achievements
-
-- 🎯 **25% increase** in returns through data model implementation
-- 📊 **30% revenue increase** by optimizing team performance through data insights
-- 🔍 **20% sales increase** for clients through market analysis and targeting
-- 💡 **Automated data collection** processes, improving efficiency and accuracy
-- 📈 Successfully managed **portfolio monitoring dashboards** and reporting systems
-
----
 
 ## 📈 Contribution Graph
 
@@ -190,6 +181,6 @@ I'm always interested in collaborating on data science projects, sharing insight
 
 <div align="center">
   
-  **"In God we trust. All others must bring data."** – W. Edwards Deming
+  **"I am because we are."** – Ubuntu
   
 </div>
