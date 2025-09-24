@@ -27,7 +27,7 @@ I am a **purpose-driven Data Analyst** with deep analytical and quantitative exp
 - 💬 Ask me about **Data Analytics, Machine Learning, Statistical Modeling, Business Intelligence**
 - 📫 How to reach me: **briankirop@gmail.com**
  
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
