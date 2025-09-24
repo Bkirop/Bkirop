@@ -1,7 +1,7 @@
 # Hello, I am Brian Kirop 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Business+Intelligence+Analyst&center=true&size=30&color=0891b2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Software+Developer&center=true&size=30&color=0891b2">
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@ I am a **purpose-driven Data Analyst** with deep analytical and quantitative exp
 - 👯 I'm looking to collaborate on **Data Science Projects & Open Source Analytics Tools**
 - 💬 Ask me about **Data Analytics, Machine Learning, Statistical Modeling, Business Intelligence**
 - 📫 How to reach me: **briankirop@gmail.com**
-- 
+ 
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
