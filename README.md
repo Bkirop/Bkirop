@@ -70,15 +70,15 @@ I am a **purpose-driven Data Analyst** with deep analytical and quantitative exp
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bkirop&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkirop&theme=dark&hide_border=true&background=0D1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkirop&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff" alt="Top Languages" />
 </div>
 
