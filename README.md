@@ -21,9 +21,9 @@
 
 I am a **purpose-driven Data Analyst** with deep analytical and quantitative expertise, holding a BSc. in Mathematics (Statistics Option) from Kibabii University. I leverage the full potential of data to derive business insights, solve complex business problems, and improve business decisions with a focus on creating positive impact.
 
-- 🔭 I'm currently working on **Advanced Machine Learning Models & Business Intelligence Solutions**
-- 🌱 I'm learning **Web Development**
-- 👯 I'm looking to collaborate on **Data Science Projects & Open Source Analytics Tools**
+- 🔭 I am currently working on **Advanced Machine Learning Models & Business Intelligence Solutions**
+- 🌱 I am currently learning **Web Development-MERN Stack**
+- 👯 I am looking to collaborate on **Data Science Projects & Open Source Analytics Tools**
 - 💬 Ask me about **Data Analytics, Machine Learning, Statistical Modeling, Business Intelligence**
 - 📫 How to reach me: **briankirop@gmail.com**
  
@@ -108,13 +108,7 @@ A comprehensive data science project featuring exploratory data analysis (EDA) a
 
 ---
 
-## 🎓 Education & Certifications
-
-### 🎓 **Education**
-- **Bachelor of Science in Mathematics (Statistics Option)**  
-  *Kibabii University* | Sep 2014 - Nov 2018 | **Second Class Honours Upper Division**
-- **Kenya Certificate of Secondary Education**  
-  *St. Peter's Marakwet High School* | Feb 2010 - Nov 2013 | **B+**
+## Certifications
 
 ### 🏅 **Certifications**
 - **IBM Data Science Professional Certificate** - Coursera/IBM
@@ -144,7 +138,7 @@ A comprehensive data science project featuring exploratory data analysis (EDA) a
 
 ## 🤝 Let's Connect!
 
-I'm always interested in collaborating on data science projects, sharing insights about analytics, and connecting with fellow data professionals. Feel free to reach out!
+I am always interested in collaborating on data science projects, sharing insights about analytics, and connecting with fellow data professionals. Feel free to reach out!
 
 <div align="center">
   <a href="https://bkirop.github.io/Personal_Portfolio/">
