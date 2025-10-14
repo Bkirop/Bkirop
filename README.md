@@ -107,20 +107,6 @@ Loading, exploring, cleaning, and visualizing hospital data using Python — all
 
 A comprehensive data science project featuring exploratory data analysis (EDA) and predictive modeling on the Tukule Kwanza dataset.
 
----
-
-## Certifications
-
-### 🏅 **Certifications**
-- **IBM Data Science Professional Certificate** - Coursera/IBM
-  - Data Science Methodology, Python for Data Science & AI
-  - Machine Learning with Python, Data Visualization
-  - Databases and SQL for Data Science
-- **Big Data Specialization** *(In Progress)*
-- **IBM Data Analyst Professional Certificate** *(In Progress)*
-
----
-
 
 ## 📈 Contribution Graph
 
