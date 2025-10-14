@@ -1,7 +1,7 @@
 # Hello, I am Brian Kirop 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Software+Developer&center=true&size=30&color=0891b2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Scientist&center=true&size=30&color=0891b2">
 </div>
 
 <p align="center">
