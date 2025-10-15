@@ -91,15 +91,6 @@ I am a **purpose-driven Data Analyst** with deep analytical and quantitative exp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bkirop&theme=github-compact&hide_border=true&bg_color=0D1117&color=0891b2&line=0891b2&point=ffffff" alt="Contribution Graph" />
 </div>
 
----
-
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/-English-4285F4?style=flat&logoColor=white)
-![Swahili](https://img.shields.io/badge/-Swahili-34A853?style=flat&logoColor=white)
-
----
-
 ## 🤝 Let's Connect!
 
 I am always interested in collaborating on data science projects, sharing insights about analytics, and connecting with fellow data professionals. Feel free to reach out!
